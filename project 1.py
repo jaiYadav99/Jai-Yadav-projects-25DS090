@@ -45,7 +45,7 @@ print("DataFrame:\n", df)
 # Basic operations
 print("\nHead:\n", df.head())
 print("\nInfo:")
-df.info()   # ✅ removed print()
+df.info()   
 
 print("\nDescribe:\n", df.describe())
 
